@@ -39,5 +39,10 @@ It looks like a general fingerprint srategy. Host users should store their finge
 
 # Face recognition
 
-Its srategy is the same with the fingerprint system. OpenCV is used to integrate in this forum. Here you can see in case, the user is unkown and known:
+Its srategy is the same with the fingerprint system. OpenCV is used to integrate in this forum. Here you can see in case, the user is unkown (the Pi rejects to open the door):
+
+![image](https://user-images.githubusercontent.com/52565814/60771406-c2c28a00-a122-11e9-8e0a-316e0c3fd11b.png)
+
+and the user is known (the Pi opens the door):
+![image](https://user-images.githubusercontent.com/52565814/60771409-cb1ac500-a122-11e9-87cb-965bdb2da14b.png)
 
