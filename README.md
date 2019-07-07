@@ -34,3 +34,10 @@ In this part, the users can request for Raspberry Pi to send one time 4 digit pa
 # Fingerprint System
 
 It looks like a general fingerprint srategy. Host users should store their fingerprints to the database. Here is the outhput:
+
+![image](https://user-images.githubusercontent.com/52565814/60771379-4f207d00-a122-11e9-84fc-cc1208b24d14.png)
+
+# Face recognition
+
+Its srategy is the same with the fingerprint system. OpenCV is used to integrate in this forum. Here you can see in case, the user is unkown and known:
+
