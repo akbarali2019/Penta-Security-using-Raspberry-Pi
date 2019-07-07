@@ -30,3 +30,7 @@ Mainly, we have used Blyink server in order to integrate our application. The co
 In this part, the users can request for Raspberry Pi to send one time 4 digit password via their Mobile Appliation. Then, They can accept 4 random generated numbers via their App. Here is output:
 
 ![image](https://user-images.githubusercontent.com/52565814/60771353-cf92ae00-a121-11e9-931f-f848048faf2c.png)
+
+# Fingerprint System
+
+It looks like a general fingerprint srategy. Host users should store their fingerprints to the database. Here is the outhput:
