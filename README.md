@@ -47,3 +47,6 @@ and the user is known (the Pi opens the door):
 
 ![image](https://user-images.githubusercontent.com/52565814/60771409-cb1ac500-a122-11e9-87cb-965bdb2da14b.png)
 
+# Metallic Key
+
+The last way to lock or unlock the door is with the metallic key as it is the vey usual way.
