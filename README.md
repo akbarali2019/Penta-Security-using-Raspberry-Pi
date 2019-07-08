@@ -18,6 +18,8 @@ Door lock and unlock system using Raspberry Pi 3 Model B. It gives a chance to l
       Raspberry Pi 3 Model B
       Linux OS
       Blyink Server
+      Raspberry Pi Camera
+      Jump Wires
 
 # Mobile Application
 
